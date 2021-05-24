@@ -126,5 +126,5 @@ Click on the user icon -> **Sign in to Sync Settings** -> **Sign in with GitHub*
 ## 20. Other issues
 - Printing size: If in need to change some printers' default printing size from *Letter* to *A4* or other, go to **Settings** -> **Devices** -> **Printers & scanners** -> Select a printer -> **Manage** -> **Printing preferences** and find out where to change paper size
 
-## 21. Disappointments for ITS
-How come a PC's ethernet in Chi Wah is not in the same network as **HKU** (Or the same network after connecting to [**HKUVPN**](https://www.its.hku.hk/documentation/guide/network/remote/hkuvpn2fa))? It's painful I can't access some intranet services. I can't even access [HKU CS GPU Farm](https://www.cs.hku.hk/gpu-farm/home) servers from the PC without port forwarding twice. 
+## 21. Disappointments for ITS :-1:
+How come a PC's ethernet in Chi Wah is not in the same network as **HKU** (Or the same network after connecting to [**HKUVPN**](https://www.its.hku.hk/documentation/guide/network/remote/hkuvpn2fa))? It's painful I can't access some intranet services while using the University-provided internet on your PCs. :rage: I can't even access [HKU CS GPU Farm](https://www.cs.hku.hk/gpu-farm/home) servers from the PC without port forwarding twice through a node that's considered in the same network as **HKU**. 
