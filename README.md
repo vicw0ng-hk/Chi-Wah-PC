@@ -1,8 +1,8 @@
 # Chi-Wah-PC
 
-HONG KONG - 24 May, 2021
+HONG KONG - 25 May, 2021
 
-My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong").
+My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong").
 
 ## 1. Taskbar Settings
 - Right click on taskbar -> **:gear:Taskbar settings** -> **Notification area** -> **Select which icons appear on the taskbar** -> Turn on **Always show all icons in the notification area**
@@ -126,5 +126,5 @@ Click on the user icon -> **Sign in to Sync Settings** -> **Sign in with GitHub*
 ## 20. Other issues
 - Printing size: If in need to change some printers' default printing size from *Letter* to *A4* or other, go to **Settings** -> **Devices** -> **Printers & scanners** -> Select a printer -> **Manage** -> **Printing preferences** and find out where to change paper size
 
-## 21. Disappointments for ITS :-1:
-How come a PC's ethernet in Chi Wah is not in the same network as **HKU** (Or the same network after connecting to [**HKUVPN**](https://www.its.hku.hk/documentation/guide/network/remote/hkuvpn2fa))? It's painful I can't access some intranet services while using the University-provided internet on your PCs. :rage: I can't even access [HKU CS GPU Farm](https://www.cs.hku.hk/gpu-farm/home) servers from the PC without port forwarding twice through a node that's considered in the same network as **HKU**. 
+## 21. Disappointments for ITS
+How come a PC's ethernet in Chi Wah is not in the same network as **HKU** (Or the same network after connecting to [**HKUVPN**](https://www.its.hku.hk/documentation/guide/network/remote/hkuvpn2fa))? It's painful I can't access some intranet services while using the University-provided internet on your PCs. I can't even access [HKU CS GPU Farm](https://www.cs.hku.hk/gpu-farm/home) servers from the PC without port forwarding twice through a node that's considered in the same network as **HKU**. 
