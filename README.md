@@ -35,12 +35,19 @@ Turn on **App & browser control**
 - Brightness needs to be manually adjusted on the right side of the display on a *Dell OptiPlex 7450 All-In-One PC*; Or **Settings** -> **System** -> **Display** -> **Change brightness** on a *Lenovo ThinkCentre M920z All-In-One PC*. 
 - **Settings** -> **System** -> **Display** -> **Night light settings** -> **Turn on/off now** & **Strength**
 
-## 7. File Explorer
+## 7. Open new virtual desktops
+- **Task View** (<kbd>Win</kbd> + <kbd>Tab</kbd>) -> **New desktop**
+- Use <kbd>Ctrl</kbd> + <kbd>Win</kbd> + <kbd>&#8592;</kbd>/<kbd>&#8594;</kbd> to switch between them
+
+## 8. Turn on Clipboard
+<kbd>Win</kbd> + <kbd>V</kbd> -> **Turn on**
+
+## 9. File Explorer
 - Expand **This PC**
 - **Expand the Ribbon** (<kbd>Ctrl</kbd> + <kbd>F1</kbd>)
 - **View** -> Check **File name extensions** & **Hidden items**
 
-## 8. Google Chrome
+## 10. Google Chrome
 - Add any previously added extension (usually **Skype** and/or **NCapture**)
 - Log into my Google accounts and turn on Sync
 - **Adblock Plus** -> :gear: -> 
@@ -52,10 +59,34 @@ Turn on **App & browser control**
     - **Settings** -> **Subtitles/CC** -> **Options** -> 
       - **Background opacity** -> **50%**
       - **Font family** -> **Monospaced Sans-Serif**
-- **New Tab** -> Try each shortcut once until favicon for each is loaded
+- **New Tab** -> Try each shortcut once until favicon for each is loaded and logging into some services
 
-## 9. PDF-XChange Editor
+## 11. PDF-XChange Editor
 - Download any 2 PDF files
 - **Open with** -> **Choose another app** -> Select **PDF-XChange Editor** -> Check **Always use this app to open .pdf files** -> **OK**
 - Close when having multiple PDF files open -> **Yes, and don't ask again**
+
+## 12. Spotify
+[Download](https://www.spotify.com/us/download/windows/)
+
+After installing and logging in, click on **\<User\>** -> **Settings** ->
+
+- **Display** -> Turn off **See what your friends are playing**
+- **SHOW ADVANCED SETTINGS** ->
+  - **Startup and window behaviour** -> 
+    - **Open Spotify automatically after you log into the computer** -> **No**
+    - Turn on **Close button should minimize the Spotify window**
+
+## 13. WhatsApp
+
+## 14. WinSCP
+
+## 15. X2Go
+
+## 16. VSCode
+
+## 17. GitHub Desktop
+
+## 18. Windows Ternminal
+
 
