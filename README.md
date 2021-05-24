@@ -79,14 +79,15 @@ After installing and logging in, click on **\<User\>** -> **Settings** ->
 
 ## 13. WhatsApp
 
-## 14. WinSCP
+## 14. Windows Ternminal
 
-## 15. X2Go
+## 15. WinSCP
 
-## 16. VSCode
+## 16. X2Go
 
 ## 17. GitHub Desktop
 
-## 18. Windows Ternminal
+## 18. VSCode
 
-
+## 19. Other issues
+- Printing size:
