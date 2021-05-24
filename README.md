@@ -11,7 +11,7 @@ My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/le
 - Right click on **Internet Explorer** -> **Unpin from taskbar**
 
 ## 2. Windows Security
-Turn on **App & browser control**
+Turn on **App & browser control** and handle any issue raised by **Sophos Endpoint Security and Control** in **Virus & threat protection**
 
 ## 3. Time & Language
 - **Settings** -> **Time & Language** -> 
