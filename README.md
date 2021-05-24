@@ -118,5 +118,10 @@ to the **Target**.
 #### Sync Settings with GitHub
 Click on the user icon -> **Sign in to Sync Settings** -> **Sign in with GitHub**
 
-## 19. Other issues
+## 19. Microsoft Teams
+**Check for updates**, or run the **Microsoft Teams x86_64** in the **ITS Software** if necessary. 
+
+**Settings** -> **General** -> Uncheck **Auto-start application** & Check **Open application in background**
+
+## 20. Other issues
 - Printing size: If in need to change some printers' default printing size from *Letter* to *A4* or other, go to **Settings** -> **Devices** -> **Printers & scanners** -> Select a printer -> **Manage** -> **Printing preferences** and find out where to change paper size
