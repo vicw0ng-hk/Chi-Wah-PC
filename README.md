@@ -92,6 +92,8 @@ Add-AppxPackage Microsoft.WindowsTerminal_<versionNumber>.msixbundle
 ## 15. WinSCP
 [Download](https://winscp.net/eng/download.php)
 
+I prefer tunneling through `gatekeeper2.cs.hku.hk` when connecting to HKUCS.
+
 ## 16. X2Go Client
 [Download](https://wiki.x2go.org/doku.php/download:start)
 
@@ -99,7 +101,13 @@ Go to `C:\Users\<User>\AppData\Local`, create a folder `X2Go`, Go into the folde
 
 Unzip the installer there. Right click on `x2goclient.exe` and send to desktop (create a shortcut). 
 
-Right click on the shortcut, select **Properties**. Add ` --broker-url=https://x2gobroker.cs.hku.hk/x2gobroker/plain/inifile` to the **Target**.
+Right click on the shortcut, select **Properties**. Add 
+
+```
+ --broker-url=https://x2gobroker.cs.hku.hk/x2gobroker/plain/inifile
+```
+
+to the **Target**.
 
 ## 17. GitHub Desktop
 [Download](https://desktop.github.com/)
