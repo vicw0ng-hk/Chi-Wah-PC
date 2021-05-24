@@ -92,7 +92,7 @@ Add-AppxPackage Microsoft.WindowsTerminal_<versionNumber>.msixbundle
 ## 15. WinSCP
 [Download](https://winscp.net/eng/download.php)
 
-I prefer tunneling through `gatekeeper2.cs.hku.hk` when connecting to HKUCS.
+I prefer tunneling (**Advanced** -> **Connection** -> **Tunnel**) through `gatekeeper2.cs.hku.hk` when connecting to HKUCS.
 
 ## 16. X2Go Client
 [Download](https://wiki.x2go.org/doku.php/download:start)
@@ -119,4 +119,4 @@ to the **Target**.
 Click on the user icon -> **Sign in to Sync Settings** -> **Sign in with GitHub**
 
 ## 19. Other issues
-- Printing size: If in need to change some printers default size from *Letter* to *A4*, go to **Settings** -> **Devices** -> **Printers & scanners** -> Select a printer -> **Manage** -> **Printing preferences** and find out where to change paper size
+- Printing size: If in need to change some printers' default printing size from *Letter* to *A4* or other, go to **Settings** -> **Devices** -> **Printers & scanners** -> Select a printer -> **Manage** -> **Printing preferences** and find out where to change paper size
