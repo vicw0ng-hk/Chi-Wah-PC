@@ -83,7 +83,7 @@ After installing and logging in, click on **\<User\>** -> **Settings** ->
 ## 14. Windows Ternminal
 [Download](https://github.com/microsoft/terminal/releases)
 
-If it fails to install after double clicking on it, try:
+If it fails to install after double clicking on it, try run this in Powershell:
 
 ```powershell
 Add-AppxPackage Microsoft.WindowsTerminal_<versionNumber>.msixbundle
@@ -119,7 +119,7 @@ to the **Target**.
 Click on the user icon -> **Sign in to Sync Settings** -> **Sign in with GitHub**
 
 ## 19. Microsoft Teams
-**Check for updates**, or run the **Microsoft Teams x86_64** in the **ITS Software** if necessary. 
+**Check for updates**, or run the **Microsoft Teams x86_64** in the **ITS Software** (Shortcut on Desktop or in the Start menu) if necessary. 
 
 **Settings** -> **General** -> Uncheck **Auto-start application** & Check **Open application in background**
 
