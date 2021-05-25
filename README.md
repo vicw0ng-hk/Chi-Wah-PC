@@ -60,6 +60,7 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
       - **Background opacity** -> **50%**
       - **Font family** -> **Monospaced Sans-Serif**
 - **New Tab** -> Try each shortcut once until the favicon for each page is loaded and logging into some services
+- **New Tab** -> `chrome://flags/#enable-tab-search` -> **Enable Tab Search** -> Select **Disabled**
 
 ## 11. PDF-XChange Editor
 - Download any 2 PDF files
