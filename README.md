@@ -119,7 +119,7 @@ to the **Target**.
 Click on the user icon -> **Sign in to Sync Settings** -> **Sign in with GitHub**
 
 ## 19. Microsoft Teams
-**Check for updates**, or run the **Microsoft Teams x86_64** in the **ITS Software** (Shortcut on Desktop or in the Start menu) if necessary. 
+**Check for updates**, or run the **Microsoft_Teams_x64** in the **ITS Software** (Shortcut on Desktop or in the Start menu) if necessary. 
 
 **Settings** -> **General** -> Uncheck **Auto-start application** & Check **Open application in background**
 
