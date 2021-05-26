@@ -48,7 +48,8 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
 - **View** -> Check **File name extensions** & **Hidden items**
 
 ## 10. Google Chrome
-- Add any previously added extension (usually **Skype** and/or **NCapture**)
+- Pin to taskbar
+- Enable any previously added extension (usually **Skype** and/or **NCapture**)
 - Log into my Google accounts and turn on Sync
 - **Adblock Plus** -> :gear: -> 
   - **ACCEPTABLE ADS** -> Uncheck **Allow Acceptable Ads** -> **NO, THANKS**
@@ -81,6 +82,8 @@ After installing and logging in, click on **\<User\>** -> **Settings** ->
 ## 13. WhatsApp
 [Download](https://www.whatsapp.com/download/?lang=en)
 
+Pin to taskbar
+
 ## 14. Windows Ternminal
 [Download](https://github.com/microsoft/terminal/releases)
 
@@ -89,6 +92,8 @@ If it fails to install after double clicking on it, try and run this in Powershe
 ```powershell
 Add-AppxPackage Microsoft.WindowsTerminal_<versionNumber>.msixbundle
 ```
+
+Pin to taskbar
 
 ## 15. WinSCP
 [Download](https://winscp.net/eng/download.php)
