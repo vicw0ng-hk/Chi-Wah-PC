@@ -1,6 +1,6 @@
 # Chi-Wah-PC
 
-HONG KONG - 26 May, 2021
+HONG KONG - 28 May, 2021
 
 My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong 香港大學").
 
@@ -61,7 +61,6 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
       - **Background opacity** -> **50%**
       - **Font family** -> **Monospaced Sans-Serif**
 - **New Tab** -> Try each shortcut once until the favicon for each page is loaded and logging into some services
-- **New Tab** -> `chrome://flags/#enable-tab-search` -> **Enable Tab Search** -> Select **Disabled**
 
 ## 11. PDF-XChange Editor
 - Download any 2 PDF files
