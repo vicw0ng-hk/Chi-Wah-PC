@@ -120,6 +120,9 @@ to the **Target**.
 ## 18. VSCode
 [Download](https://code.visualstudio.com/download)
 
+## (18.1 Git)
+[Download](https://git-scm.com/download/win)
+
 ## 19. Microsoft Teams
 **Check for updates**, or run the **Microsoft_Teams_x64** in the **ITS Software** (Shortcut on Desktop or in the Start menu) if necessary. 
 
