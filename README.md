@@ -84,7 +84,7 @@ After installing and logging in, click on **\<User\>** -> **Settings** ->
 Pin to taskbar
 
 ## 14. Windows Ternminal
-[Download](https://github.com/microsoft/terminal/releases)
+[Download](https://github.com/microsoft/terminal/releases/latest)
 
 If it fails to install after double clicking on it, try and run this in Powershell:
 
