@@ -1,6 +1,6 @@
 # Chi-Wah-PC
 
-HONG KONG - 28 May, 2021
+HONG KONG - 02 Jun, 2021
 
 My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong 香港大學").
 
@@ -20,7 +20,7 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
     - **Preferred languages** -> 
       - **Add a language** -> **Chinese (Simplified, China)** -> **Next** -> **Install**
       - **Chinese (Simplified, China)** -> **Options** -> **Microsoft Pinyin** -> **Options** -> **General** -> **Default mode** -> **Choose IME default mode** -> **English**
-    - **Keyboard** -> **Override for default input method** -> **Chinese (Simplified, China) - Microsoft Pinyin**
+    - **Keyboard** (For Windows 10 versions before *2004*, it's in the **Preferred languages** -> **Choose an input method to always use as default**) -> **Override for default input method** -> **Chinese (Simplified, China) - Microsoft Pinyin**
 - (**IME toolbar** -> :gear: -> **Hide IME toolbar**)
 
 ## 4. Default Apps
@@ -78,6 +78,8 @@ After installing and logging in, click on **\<User\>** -> **Settings** ->
     - **Open Spotify automatically after you log into the computer** -> **No**
     - Turn on **Close button should minimize the Spotify window**
 
+Pin to taskbar
+
 ## 13. WhatsApp
 [Download](https://www.whatsapp.com/download/?lang=en)
 
@@ -86,7 +88,7 @@ Pin to taskbar
 ## 14. Windows Ternminal
 [Download](https://github.com/microsoft/terminal/releases/latest)
 
-If it fails to install after double clicking on it, try and run this in Powershell:
+If `Microsoft.WindowsTerminal_<versionNumber>.msixbundle` fails to install after double clicking on it, try and run this in Powershell:
 
 ```powershell
 Add-AppxPackage Microsoft.WindowsTerminal_<versionNumber>.msixbundle
