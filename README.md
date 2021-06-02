@@ -20,7 +20,7 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
     - **Preferred languages** -> 
       - **Add a language** -> **Chinese (Simplified, China)** -> **Next** -> **Install**
       - **Chinese (Simplified, China)** -> **Options** -> **Microsoft Pinyin** -> **Options** -> **General** -> **Default mode** -> **Choose IME default mode** -> **English**
-    - **Keyboard** (For Windows 10 versions before *2004*, it's in the **Preferred languages** -> **Choose an input method to always use as default**) -> **Override for default input method** -> **Chinese (Simplified, China) - Microsoft Pinyin**
+    - **Keyboard** (For Windows 10 versions before *2004*, it's **Preferred languages** -> **Choose an input method to always use as default**) -> **Override for default input method** -> **Chinese (Simplified, China) - Microsoft Pinyin**
 - (**IME toolbar** -> :gear: -> **Hide IME toolbar**)
 
 ## 4. Default Apps
