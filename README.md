@@ -7,6 +7,7 @@ My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/le
 ## 1. Taskbar Settings
 - Right click on taskbar -> **:gear:Taskbar settings** -> **Notification area** -> **Select which icons appear on the taskbar** -> Turn on **Always show all icons in the notification area**
 - Right click on taskbar -> Uncheck **Show Cortana button**
+- (Right click on taskbar -> **News and interests** -> **Turn off**)
 - Right click on **Microsoft Edge** -> **Unpin from taskbar**
 - Right click on **Internet Explorer** -> **Unpin from taskbar**
 
