@@ -1,6 +1,6 @@
 # Chi-Wah-PC
 
-HONG KONG - 02 Jun, 2021
+HONG KONG - 24 Jun, 2021
 
 My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong 香港大學").
 
