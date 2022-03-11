@@ -1,6 +1,6 @@
 # Chi-Wah-PC
 
-HONG KONG - 24 Jun, 2021
+HONG KONG - 24 Jun 2021 (Updated 11 Mar 2022)
 
 My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong 香港大學").
 
@@ -22,6 +22,11 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
       - **Add a language** -> **Chinese (Simplified, China)** -> **Next** -> **Install**
       - **Chinese (Simplified, China)** -> **Options** -> **Microsoft Pinyin** -> **Options** -> **General** -> **Default mode** -> **Choose IME default mode** -> **English**
     - **Keyboard** (For Windows 10 versions before *2004*, it's **Preferred languages** -> **Choose an input method to always use as default**) -> **Override for default input method** -> **Chinese (Simplified, China) - Microsoft Pinyin**
+  - **Region** -> **Change data formats** ->
+    - **Short date** -> **05-Apr-17**
+    - **Long date** -> **Wednesday, 5 Apr, 2017**
+    - **Short time** -> **09:40**
+    - **Long time** -> **09:40:07**
 - (**IME toolbar** -> :gear: -> **Hide IME toolbar**)
 
 ## 4. Default Apps
@@ -56,11 +61,7 @@ Turn on **App & browser control** and handle any issue raised by **Sophos Endpoi
   - **ACCEPTABLE ADS** -> Uncheck **Allow Acceptable Ads** -> **NO, THANKS**
   -  **LANGUAGE** -> Change to **中文+English**
 - **New Tab** -> **Youtube** -> Change to my frequently used account for YouTube -> 
-  - A video on **Youtube** with Subtitles/CC -> 
-    - Turn off Autoplay
-    - **Settings** -> **Subtitles/CC** -> **Options** -> 
-      - **Background opacity** -> **50%**
-      - **Font family** -> **Monospaced Sans-Serif**
+  - A video on **Youtube** with Subtitles/CC -> Turn off Autoplay
 - **New Tab** -> Try each shortcut once until the favicon for each page is loaded and logging into some services
 
 ## 11. PDF-XChange Editor
