@@ -2,7 +2,7 @@
 
 HONG KONG - 24 Jun 2021 (Updated 11 Mar 2022)
 
-My favorite settings on [Windows PCs](http://www.les.hku.hk/teaching-learning/learning-space/windows-pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](http://www.les.hku.hk/teaching-learning/learning-space/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong 香港大學").
+My favorite settings on [Windows PCs](https://its.hku.hk/services/teaching-learning/classrooms-and-learning-commons/chi-wah-learning-commons/pcs-in-the-learning-commons) of [Chi Wah Learning Commons (智華館)](https://its.hku.hk/services/teaching-learning/classrooms-and-learning-commons/chi-wah-learning-commons) @ [HKU](https://hku.hk "The University of Hong Kong 香港大學").
 
 ## 1. Taskbar Settings
 - Right click on taskbar -> **:gear:Taskbar settings** -> **Notification area** -> **Select which icons appear on the taskbar** -> Turn on **Always show all icons in the notification area**
